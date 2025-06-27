@@ -58,5 +58,3 @@ Build a binary classification model using **Logistic Regression** to predict out
 
 - Confusion Matrix
 - ROC Curve
-- Threshold vs Accuracy (optional)
-- Feature Importance (optional)
