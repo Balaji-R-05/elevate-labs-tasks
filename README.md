@@ -5,3 +5,4 @@
 - **1. Data Cleaning & Preprocessing**
 - **2. Exploratory Data Analysis (EDA)**
 - **3. Linear Regression**
+- **4. Classification with Logistic Regression**
